@@ -23,3 +23,18 @@ Reporte 2
    camerarigs
    interactions
    objectfollower
+
+   Reporte 3
+
+1. Integración de setup basico para llevar a la empresa
+2. VRTK Setup:
+   carama rigs
+   inputs
+   pointers
+   teleport
+   pseudobody
+   rules
+   interactors
+   interactuables
+   controlables
+   mutators
